@@ -1,1 +1,2 @@
 RedesAvanzadas test de logs
+segunda linea de prueba de texto
